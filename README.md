@@ -50,6 +50,7 @@ Kalantram Tech Solutions (Byajbook) – *Worked on core modules, Git, debugging*
 ## 🚀 Projects
 
 🔹 **Bilingual-RAG-chatbot** – An AI-powered chatbot that allows users to query investor-related PDF documents (like financial reports or portfolios) in English and Japanese
+
 🔹 **Customer Churn Prediction** – Deep learning (MLP) model with TensorFlow/Keras  
 🔹 **YOLOv8 People Detection** – Built object detection system with GUI  
 🔹 **House Price Prediction** – Used regression on Boston dataset with 90%+ accuracy
