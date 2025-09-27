@@ -34,7 +34,7 @@ Kalantram Tech Solutions (Byajbook) – *Worked on core modules, Git, debugging*
 ## 💻 Skills
 
 **Languages:** Python, Java, C/C++, MySQL  
-**Data Science:** Data Preprocessing, EDA, Regression, Classification  
+**Data Science:** Data Preprocessing, EDA, Regression, Classification ,NLP , Tranformer , RAG Chatbots , Fine-Tuning ,Timesformer 
 **Deep Learning:** TensorFlow, MLPs, Model Evaluation  
 **Libraries/Frameworks:**  
 - NumPy  
