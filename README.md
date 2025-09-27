@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prashant Litoriya
 
-I'm a Final-year B.Tech Computer Science student based in Indore, passionate about solving real-world problems using **Data Science, Machine Learning**, and **Artificial Intelligence**. My journey in technology is driven not just by academics, but by curiosity, exploration, and the excitement of building smart systems.
+I'm a Recently Graduated  B.Tech Computer Science student based in Indore, passionate about solving real-world problems using **Data Science, Machine Learning**, and **Artificial Intelligence**. My journey in technology is driven not just by academics, but by curiosity, exploration, and the excitement of building smart systems.
 
 I’m also a **YouTube creator** where I teach aptitude and placement topics, and I’m constantly learning new things—from **Large Language Models** to **Deep Learning architectures**—to stay ahead in the AI revolution.
 
@@ -50,7 +50,7 @@ Kalantram Tech Solutions (Byajbook) – *Worked on core modules, Git, debugging*
 ## 🚀 Projects
 
 🔹 **Bilingual-RAG-chatbot** – An AI-powered chatbot that allows users to query investor-related PDF documents (like financial reports or portfolios) in English and Japanese
-
+🔹  **Mini Chatgpt** - Minigpt is a model which is train on my custom dataset and give prediction in chunks from that.
 🔹 **Customer Churn Prediction** – Deep learning (MLP) model with TensorFlow/Keras  
 🔹 **YOLOv8 People Detection** – Built object detection system with GUI  
 🔹 **House Price Prediction** – Used regression on Boston dataset with 90%+ accuracy
